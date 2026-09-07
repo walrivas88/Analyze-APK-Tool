@@ -1,0 +1,6 @@
+{
+  "name": "SO Analyzer",
+  "description": "Inspect and analyze native Android .so ELF binaries and installed APKs, generate Frida dynamic hooks, Ghidra export scripts, ARM64 hex/NOP binary patches, dynamic string decryptors, and RAM memory dumpers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
